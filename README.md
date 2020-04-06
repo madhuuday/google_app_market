@@ -1,4 +1,4 @@
-# google_app_market
+# google_app_market-Guided Project
 
 The project is about analysing app data for a company that builds Android and iOS mobile apps.
 
